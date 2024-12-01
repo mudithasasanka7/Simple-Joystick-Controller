@@ -65,7 +65,7 @@ void loop() {
 ---
 
 ## 🎥 Working Video
-📺 Watch the project in action: [LinkedIn Video Post](https://www.linkedin.com/posts/your-post-link)
+📺 Watch the project in action: [LinkedIn Video Post](https://www.linkedin.com/posts/muditha-sasanka-kodikara-b5473a322_robot-arm-controlled-via-joystick-this-activity-7268726784932687872-UxZH?utm_source=share&utm_medium=member_ios)
 
 ---
 
